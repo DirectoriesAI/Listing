@@ -100,46 +100,35 @@
 
   const prefillDemoData = () => {
     data.value = {
-      n: "John Snow",
-      d: "I’m John Snow, the king in the north. I know Nothing.",
-      i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-      f: "https://www.facebook.com/john_snow",
-      t: "https://twitter.com/john_snow",
-      ig: "https://www.instagram.com/john_snow",
-      e: "mail@john_snow.cc",
-      gh: "https://github.com/john_snow",
-      tg: "https://t.me/john_snow",
-      w: "+918888888888",
-      y: "https://youtube.com/@john_snow",
-      l: "https://linkedin.com/john_snow",
-      ls: [
-        {
-          l: "My Website",
-          i: "ph:globe-duotone",
-          u: "https://example.com",
-        },
-        {
-          l: "Amazon wishlist",
-          i: "ant-design:amazon-outlined",
-          u: "https://amazon.in",
-        },
-        {
-          l: "React JS course",
-          i: "grommet-icons:reactjs",
-          u: "https://reactjs.org/",
-        },
-        {
-          l: "Donate for our cause",
-          i: "iconoir:donate",
-          u: "https://who.int",
-        },
-        {
-          l: "Download my resume",
-          i: "ph:file-pdf",
-          u: "https://google.com",
-        },
-      ],
-    };
+  "n": "Pizza Lab",
+  "i": "https://example.com/pizza-lab-logo.png",
+  "d": "We don't just make pizzas - we engineer life-changing, tastebud-exploding pizzas with scientifically perfected dough elasticity and precision-calculated cheese coverage.", 
+  "f": "https://www.facebook.com/pizzalab",
+  "t": "https://twitter.com/pizzalab",
+  "ig": "https://www.instagram.com/pizzalab",
+  "gh": "https://github.com/pizzalab",
+  "tg": "https://t.me/pizzalab",
+  "w": "https://pizzalab.com",
+  "y": "https://youtube.com/c/pizzalab",
+  "l": "https://linkedin.com/company/pizza-lab",
+  "ls": [
+    {
+      "l": "Visit our website",
+      "i": "ph:globe-duotone",
+      "u": "https://pizzalab.com"
+    },
+    {
+      "l": "See our menu",
+      "i": "dashicons:menu",
+      "u": "https://pizzalab.com/menu"
+    },
+    {
+      "l": "Order online",
+      "i": "ic:round-local-pizza",
+      "u": "https://pizzalab.com/online-ordering"
+    }
+  ]
+}
   };
 
   async function getListings() {
