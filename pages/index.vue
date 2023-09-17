@@ -100,32 +100,32 @@
 
   const prefillDemoData = () => {
     data.value = {
-  "n": "Pizza Lab",
-  "i": "https://example.com/pizza-lab-logo.png",
-  "d": "We don't just make pizzas - we engineer life-changing, tastebud-exploding pizzas with scientifically perfected dough elasticity and precision-calculated cheese coverage.", 
-  "f": "https://www.facebook.com/pizzalab",
-  "t": "https://twitter.com/pizzalab",
-  "ig": "https://www.instagram.com/pizzalab",
-  "gh": "https://github.com/pizzalab",
-  "tg": "https://t.me/pizzalab",
-  "w": "https://pizzalab.com",
-  "y": "https://youtube.com/c/pizzalab",
-  "l": "https://linkedin.com/company/pizza-lab",
+  "n": "Bigfoot's Pizza",
+  "i": "👣🍕",
+  "d": "We don't just make pizzas - we craft mythically delicious, cryptozoologically-approved pizzas made with fur-raised dough and hand-foraged forest toppings.",
+  "f": "https://www.facebook.com/bigfootspizza", 
+  "t": "https://twitter.com/bigfoots_pizza",
+  "ig": "https://www.instagram.com/bigfoots_pizza",
+  "gh": "https://github.com/bigfootspizza",
+  "tg": "https://t.me/bigfoots_pizza",
+  "w": "https://www.bigfootspizza.com",
+  "y": "https://youtube.com/c/bigfootspizza",
+  "l": "https://www.linkedin.com/company/bigfoots-pizza",
   "ls": [
     {
-      "l": "Visit our website",
-      "i": "ph:globe-duotone",
-      "u": "https://pizzalab.com"
+      "l": "Visit our website for free foot massages!",
+      "i": "👣",
+      "u": "https://www.bigfootspizza.com"
+    },
+    {  
+      "l": "See our menu of forest-inspired pizzas",
+      "i": "🌲",
+      "u": "https://www.bigfootspizza.com/menu"
     },
     {
-      "l": "See our menu",
-      "i": "dashicons:menu",
-      "u": "https://pizzalab.com/menu"
-    },
-    {
-      "l": "Order online",
-      "i": "ic:round-local-pizza",
-      "u": "https://pizzalab.com/online-ordering"
+      "l": "Order online and get $5 off with promo code 'SASQUATCH'",
+      "i": "🍕", 
+      "u": "https://www.bigfootspizza.com/online-ordering"
     }
   ]
 }
