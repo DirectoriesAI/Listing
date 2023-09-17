@@ -114,17 +114,17 @@
   "ls": [
     {
       "l": "Visit our website for free foot massages!",
-      "i": "👣",
+      "i": "👣fxemoji:footprints",
       "u": "https://www.bigfootspizza.com"
     },
     {  
       "l": "See our menu of forest-inspired pizzas",
-      "i": "🌲",
+      "i": "fluent-emoji-high-contrast:japanese-open-for-business-button",
       "u": "https://www.bigfootspizza.com/menu"
     },
     {
       "l": "Order online and get $5 off with promo code 'SASQUATCH'",
-      "i": "🍕", 
+      "i": "fluent:accessibility-16-filled", 
       "u": "https://www.bigfootspizza.com/online-ordering"
     }
   ]
