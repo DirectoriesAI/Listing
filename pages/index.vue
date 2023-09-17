@@ -101,7 +101,7 @@
   const prefillDemoData = () => {
     data.value = {
   "n": "Bigfoot's Pizza",
-  "i": "👣🍕",
+  "i": "https://i.imgur.com/on3jglg.png",
   "d": "We don't just make pizzas - we craft mythically delicious, cryptozoologically-approved pizzas made with fur-raised dough and hand-foraged forest toppings.",
   "f": "https://www.facebook.com/bigfootspizza", 
   "t": "https://twitter.com/bigfoots_pizza",
