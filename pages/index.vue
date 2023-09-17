@@ -100,32 +100,35 @@
 
   const prefillDemoData = () => {
     data.value = {
-  "n": "Bigfoot's Pizza",
-  "i": "https://i.imgur.com/on3jglg.png",
-  "d": "We don't just make pizzas - we craft mythically delicious, cryptozoologically-approved pizzas made with fur-raised dough and hand-foraged forest toppings.",
-  "f": "https://www.facebook.com/bigfootspizza", 
-  "t": "https://twitter.com/bigfoots_pizza",
-  "ig": "https://www.instagram.com/bigfoots_pizza",
-  "gh": "https://github.com/bigfootspizza",
-  "tg": "https://t.me/bigfoots_pizza",
-  "w": "https://www.bigfootspizza.com",
-  "y": "https://youtube.com/c/bigfootspizza",
-  "l": "https://www.linkedin.com/company/bigfoots-pizza",
+  "n": "Unicorn Pizza Shop",
+  "i": "https://example.com/unicornlogo.png",
+  "d": "We craft magical, rainbow-filled pizzas with dough touched by unicorn horns and topped with sparkling fairy dust.",
+
+  "f": "https://www.facebook.com/unicornpizzashop",
+  "t": "https://twitter.com/unicornpizza",
+  "ig": "https://www.instagram.com/unicorn_pizza/",
+  "gh": "https://github.com/unicornpizzashop",
+  "tg": "https://t.me/unicornpizzashop",  
+
+  "w": "https://www.unicornpizzashop.com",
+  "y": "https://youtube.com/c/unicornpizzashop",
+  "l": "https://www.linkedin.com/company/unicorn-pizza-shop",
+
   "ls": [
     {
-      "l": "Visit our website for free foot massages!",
-      "i": "👣fxemoji:footprints",
-      "u": "https://www.bigfootspizza.com"
-    },
-    {  
-      "l": "See our menu of forest-inspired pizzas",
-      "i": "fluent-emoji-high-contrast:japanese-open-for-business-button",
-      "u": "https://www.bigfootspizza.com/menu"
+      "l": "Visit our magic pizza portal",
+      "i": "mdi:magic-staff",
+      "u": "https://www.unicornpizzashop.com"
     },
     {
-      "l": "Order online and get $5 off with promo code 'SASQUATCH'",
-      "i": "fluent:accessibility-16-filled", 
-      "u": "https://www.bigfootspizza.com/online-ordering"
+      "l": "See our enchanted menu",
+      "i": "carbon:menu",
+      "u": "https://www.unicornpizzashop.com/menu"
+    },
+    {
+      "l": "Order online and get a free unicorn toy",
+      "i": "mdi:unicorn",
+      "u": "https://www.unicornpizzashop.com/online-ordering"
     }
   ]
 }
