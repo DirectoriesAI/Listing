@@ -101,7 +101,7 @@
   const prefillDemoData = () => {
     data.value = {
   "n": "Unicorn Pizza Shop",
-  "i": "https://example.com/unicornlogo.png",
+  "i": "https://i.imgur.com/1Vnokqj.png",
   "d": "We craft magical, rainbow-filled pizzas with dough touched by unicorn horns and topped with sparkling fairy dust.",
 
   "f": "https://www.facebook.com/unicornpizzashop",
